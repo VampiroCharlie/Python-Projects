@@ -1,0 +1,46 @@
+#cat dictionary project. Information from (https://www.petwave.com/Cats/Breeds.aspx?pg=1).
+
+
+
+cat_breed ={ 1: {'Name': 'Abyssinian', 'Animal Kingdom':'Animalia', 'Origin': 'Egypt'},
+             2: {'Name': 'American Bobtail', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             3: {'Name': 'American Curl', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             4: {'Name': 'American Shorthair', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             5: {'Name': 'American Wirehair', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             6: {'Name': 'Balinese', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             7: {'Name': 'Bengal', 'Animal Kingdom':'Animalia', 'Origin': 'India'},
+             8: {'Name': 'Birman', 'Animal Kingdom':'Animalia', 'Origin': 'France'},
+             9: {'Name': 'Bombay', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             10: {'Name': 'British Shorthair', 'Animal Kingdom':'Animalia', 'Origin': 'Great Britain'},
+             11: {'Name': 'Burmese', 'Animal Kingdom':'Animalia', 'Origin': 'Thailand'},
+             12: {'Name': 'Chartreux', 'Animal Kingdom':'Animalia', 'Origin': 'France'},
+             13: {'Name': 'Cornish Rex', 'Animal Kingdom':'Animalia', 'Origin': 'Great Britain'},
+             14: {'Name': 'Cymric', 'Animal Kingdom':'Animalia', 'Origin': 'Canada'},
+             15: {'Name': 'Devon Rex', 'Animal Kingdom':'Animalia', 'Origin': 'Great Britain'},
+             16: {'Name': 'Egyptian Mau', 'Animal Kingdom':'Animalia', 'Origin': 'Egypt'},
+             17: {'Name': 'Exotic Shorthair', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             18: {'Name': 'Havana Brown', 'Animal Kingdom':'Animalia', 'Origin': 'Great Britain'},
+             19: {'Name': 'Himalayan', 'Animal Kingdom':'Animalia', 'Origin': 'Great Britain'},
+             20: {'Name': 'Japanese Bobtail', 'Animal Kingdom':'Animalia', 'Origin': 'Japan'},
+             21: {'Name': 'Korat', 'Animal Kingdom':'Animalia', 'Origin': 'Thailand'},
+             22: {'Name': 'Maine Coon', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             23: {'Name': 'Manx', 'Animal Kingdom':'Animalia', 'Origin': 'Isle of Man'},
+             24: {'Name': 'Norwegian Forest Cat', 'Animal Kingdom':'Animalia', 'Origin': 'Norway'},
+             25: {'Name': 'Ocicat', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             26: {'Name': 'Persian', 'Animal Kingdom':'Animalia', 'Origin': 'Iran'},
+             27: {'Name': 'Pixie Bob', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             28: {'Name': 'Ragdoll', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             29: {'Name': 'Russian Blue', 'Animal Kingdom':'Animalia', 'Origin': 'Russia'},
+             30: {'Name': 'Scottish Fold', 'Animal Kingdom':'Animalia', 'Origin': 'Scotland'},
+             31: {'Name': 'Selkirk Rex', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             32: {'Name': 'Siamese', 'Animal Kingdom':'Animalia', 'Origin': 'Thailand'},
+             33: {'Name': 'Siberian', 'Animal Kingdom':'Animalia', 'Origin': 'Russia'},
+             34: {'Name': 'Snowshoe', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             35: {'Name': 'Somali', 'Animal Kingdom':'Animalia', 'Origin': 'United States of America'},
+             36: {'Name': 'Sphynx', 'Animal Kingdom':'Animalia', 'Origin': 'Canada'},
+             37: {'Name': 'Tonkinese', 'Animal Kingdom':'Animalia', 'Origin': 'Canada'},
+             38: {'Name': 'Turkish Angora', 'Animal Kingdom':'Animalia', 'Origin': 'Turkey'},
+             39: {'Name': 'Turkish Van', 'Animal Kingdom':'Animalia', 'Origin': 'Turkey'}, }
+             
+             
+print (cat_breed[37]['Name'])
